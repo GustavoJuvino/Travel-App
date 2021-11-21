@@ -8,7 +8,8 @@
 
 
 <img src = "./IMG/TravelApp-1.png" title="imgapp1"></img>
+<img src = "./IMG/TravelApp-2.png" title="imgapp2"></img>
 <img src = "./IMG/TravelApp-3.png" title="imgapp3"></img>
 <img src = "./IMG/TravelApp-4.png" title="imgapp4"></img>
 <img src = "./IMG/TravelApp-5.png" title="imgapp5"></img>
-<img src = "./IMG/TravelApp-2.png" title="imgapp2"></img>
+
