@@ -1,9 +1,14 @@
-# Cyber Japan Coffee コーヒー
--This is a web page layout project with a cyber coffee theme located in japan.
+# Travel App Project
+(It's just layout so there's no backend.)
 
--I used the SASS pre-processor, HTML, CSS and some decisions with UI searches.
+This is a design of a travel inns and establishments app that I developed with Adobe XD and Figma programs.
+I also put some things I learned about UX / UI into it.
 
- -SVG'S site: https://undraw.co/<br>
+Images, svg's and icons i used:
+
+https://undraw.co/<br>
+https://unsplash.com/<br>
+https://fonts.google.com/icons
 
 
 
